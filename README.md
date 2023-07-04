@@ -1,2 +1,2 @@
 # QAmediacal-system
-a little project of knowledge graph
+A simple project of knowledge graph
